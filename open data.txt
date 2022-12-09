@@ -1,0 +1,13 @@
+ISABEL MANZONI 				Esercitazione 7.12.2022
+
+https://dati.lombardia.it/
+https://sportsopendata.net/
+https://data.europa.eu/data/datasets?locale=it
+https://data.un.org/
+https://www.kaggle.com/datasets/whenamancodes/adidas-us-retail-products-dataset
+https://www.dati.lombardia.it/widgets/3z4k-mxz9?mobile_redirect=true
+https://opendata.unesco.org/en/
+https://ec.europa.eu/eurostat/databrowser/explore/all/all_themes
+https://data.nasa.gov/browse?limitTo=datasets   
+https://www.healthdata.gov/
+
